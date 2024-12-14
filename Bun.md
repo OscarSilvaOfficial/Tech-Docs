@@ -3,6 +3,7 @@
 ## Package Manager
 
 - Resolve módulos através do seu próprio gerênciador de dependências
+  - O registry padrão para a publicação de pacotes é o **npm**
   - Consegue trabalhar com arquivos de gerênciamento de memória pré-existentes
     - **npm, yarn. pnpm**
 
