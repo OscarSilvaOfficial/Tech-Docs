@@ -27,6 +27,7 @@ bun outdated
 
 ![Captura de tela de 2024-12-14 01-09-32](https://github.com/user-attachments/assets/5b3cdcae-dfc9-486e-9e46-59ac2a7ec24e)
 
+- Quando é instalado um pacote, o gerênciador faz cache em disco da dependência no diretório `~/.bun/install/cache`
 
 ## CI/CD
 
