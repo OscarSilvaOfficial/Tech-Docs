@@ -20,6 +20,11 @@
 }
 ```
 
+- É possível ter uma tabela com pacotes instalados, versão atual, e última versão rodando o comando `bun outdated`
+
+![Captura de tela de 2024-12-14 01-09-32](https://github.com/user-attachments/assets/5b3cdcae-dfc9-486e-9e46-59ac2a7ec24e)
+
+
 ## CI/CD
 
 - Usa o [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) como pacote oficial para realizar CI/CD pelo Github Actions
