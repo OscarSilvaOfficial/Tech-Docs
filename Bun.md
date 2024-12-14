@@ -16,3 +16,5 @@
   }
 }
 ```
+
+- Usa o [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) como pacote oficial para realizar CI/CD pelo Github Actions
