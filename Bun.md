@@ -3,6 +3,7 @@
 ## Package Manager
 
 - Para salvar as dependências, bun irá criar um arquivo binário chamado `bun.lockb`
+  - O lock file é agnóstico a sistema operacional [ref](https://bun.sh/docs/install/lockfile#platform-specific-dependencies)
   - Junto com esse lock file, é gerado um package.json, para conseguir ler as dependências do projeto 
 - Resolve módulos através do seu próprio gerênciador de dependências
   - O registry padrão para a publicação de pacotes é o **npm**
